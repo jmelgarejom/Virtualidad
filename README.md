@@ -1,5 +1,5 @@
-##   PROPUESTA DE INVESTIGACION
-### Pregunta de investigacion
+##   PROPUESTA DE INVESTIGACIÓN
+### Pregunta de investigación
 ¿Cómo reconstruir una historia del bogotazo a partir de diferentes fuentes virtuales?
 ### Hipótesis
 Los recursos virtuales pueden llegar a ser útiles al momento de investigar un fenómeno histórico como el caso del bogotazo. 

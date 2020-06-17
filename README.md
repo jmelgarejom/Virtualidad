@@ -7,9 +7,11 @@ Los recursos virtuales pueden llegar a ser útiles al momento de investigar un f
 El bogotazo es un hecho que atraviesa la historia de Bogotá y sigue estando presente en la memoria de muchos(as), el 9 de abril fue declarado Día nacional de la memoria y la solidaridad con las víctimas. El asesinato de Jorge Eliécer Gaitán caudillo electoral de aquella época, quien representaba para algunas un cambio significativo en la política, desató fuertes disturbios en el centro de la capital colombiana, existen diferentes teorías e hipótesis que dan cuenta de lo sucedido en aquellos días. ¿Es posible encontrar diferentes fuentes digitales que relaten lo sucedido en el 48? ¿Cuales sitios se podrían visitar? a continuación compartimos con ustedes diferentes fuentes que encontramos para nutrir, contrastar y comprender este hecho histórico.    
 
 ![Imagenes del Bogotazo](https://raw.githubusercontent.com/jmelgarejom/Virtualidad/master/WhatsApp%20Image%202020-06-10%20at%209.15.26%20AM.jpeg)
+
 Fotografía de la Biblioteca Nacional de Colombia en la cual se pueden observar los restos calcinados del Tranvía del centro de la capital días después del 9 de abril.
 
 ![Imagenes del Bogotazo](https://raw.githubusercontent.com/jmelgarejom/Virtualidad/master/WhatsApp%20Image%202020-06-10%20at%209.18.41%20AM.jpeg)
+
 Fotografía del catálogo de la Biblioteca Nacional de Colombia, allí se pueden ver las ruinas de una edificación del centro de la ciudad tras los acontecimientos del 9 de abril de 1948.
 
 ![Imagenes del Bogotazo](https://raw.githubusercontent.com/jmelgarejom/Virtualidad/master/68747470733a2f2f636174616c6f676f656e6c696e65612e6269626c696f746563616e6163696f6e616c2e676f762e636f2f636c69656e742f65735f45532f7365617263682f61737365742f39353137362f30.jpeg)

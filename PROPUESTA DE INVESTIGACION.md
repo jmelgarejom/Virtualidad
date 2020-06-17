@@ -12,8 +12,9 @@ Fotografía de la Biblioteca Nacional de Colombia en la cual se pueden observar 
 ![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95171/0)
 Fotografía del catálogo de la Biblioteca Nacional de Colombia, allí se pueden ver las ruinas de una edificación del centro de la ciudad tras los acontecimientos del 9 de abril de 1948.
 
-![Imagenes del Bogotazo](https://catalogoenlinea.bibliotecanacional.gov.co/client/es_ES/search/asset/95176/0)
-Fotografia del catálogo de la Biblioteca Nacional de Colombia, se observan los edificos destruidos  sobre la carrera septima en Bogota.  
+!(https://raw.githubusercontent.com/jmelgarejom/Virtualidad/master/68747470733a2f2f636174616c6f676f656e6c696e65612e6269626c696f746563616e6163696f6e616c2e676f762e636f2f636c69656e742f65735f45532f7365617263682f61737365742f39353137362f30.jpeg)
+
+Fotografia del catálogo de la Biblioteca Nacional de Colombia, se observan los edificos destruidos  sobre la carrera septima en Bogota.
 
 ### Archivo videografico
 Una de las funetes videograficas se pueden encontrar en los archivo de la RTVC, que muestra con imagenes de la epoca la conmocion vivida por los ciudadanos de Bogota al presenciar la muerte del caudillo Jorge Eliecer Gaitan. 
